@@ -25,7 +25,7 @@
 - **Definition:** Jenkins is an open-source automation server that provides hundreds of plugins to support building, deploying, and automating any project.
 - **Objective:** Jenkins is used for implementing CI/CD pipelines. It helps automate various stages of the software development lifecycle, from building and testing to deployment.
 
-Refer to **[02_Introduction](https://github.com/im-Rajat/CICD_Jenkins/tree/main/01_Introduction)** Section for Introduction
+Refer to **[02_Introduction](https://github.com/im-Rajat/CICD_Jenkins/tree/main/01_Introduction)** Section for CICD Basics/Introduction
 
 ### References
 
